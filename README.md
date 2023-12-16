@@ -3,7 +3,7 @@
 ### Material de trabajo 
 WOKWI
 TARJETA ESP 32
-SENSOR DHT11
+SENSOR Ultrasonic Distance
 SENSOR LiquidCrystal I2C
 
 ### INSTRUCCIONES 
@@ -64,4 +64,4 @@ Por ultimo hacemos la conexion de los sensores **Ultrasonic Distance Sensor** y 
 
 ### RESULTADOS
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
-![]
+![](https://github.com/RobertoPalacios17/Pr-ctica-4-ESP32-con-ULTRASONICO/blob/main/SENSOR%206.png)
