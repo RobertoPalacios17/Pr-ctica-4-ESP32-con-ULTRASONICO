@@ -60,8 +60,7 @@ lcd.print("Mecanico");
 Siguiente instlamos la libreria **DHT sensor library for ESPx** y la libreria **LiquidCrystal I2C**
 
 Por ultimo hacemos la conexion de los sensores **Ultrasonic Distance Sensor** y **ESP32** con el sensor **LCD 16X2 (l2C)** y agregamos **VCC Symbol** y **GND Symbol** como se muestra en la imagen
-![](
-
+![](https://github.com/RobertoPalacios17/Pr-ctica-4-ESP32-con-ULTRASONICO/blob/main/SENSOR%205.png)
 
 ### RESULTADOS
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
